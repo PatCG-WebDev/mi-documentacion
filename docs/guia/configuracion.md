@@ -1,3 +1,3 @@
-# **Configuración**
+# Configuración
 
 Opciones de configuración
